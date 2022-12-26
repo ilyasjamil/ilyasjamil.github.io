@@ -41,7 +41,7 @@
 		backdrop-filter: brightness(87%);
 		box-shadow: inset 0px 0px 1px 1px rgba(227, 227, 227, 0.219);
 		box-sizing: border-box;
-		font-size: 1.3vw;
+		font-size: 1vw;
 
 	}
 	.actions{
